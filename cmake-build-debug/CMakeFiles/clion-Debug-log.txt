@@ -1,0 +1,45 @@
+"/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/ninja/mac/ninja" -G Ninja -S /Users/jly/Code/minisql-master -B /Users/jly/Code/minisql-master/cmake-build-debug
+CMake Warning at CMakeLists.txt:25 (MESSAGE):
+  Could NOT find clang-format.
+
+
+-- Could NOT find GTest (missing: GTest_DIR)
+CMake Warning at thirdparty/glog/CMakeLists.txt:82 (find_package):
+  By not providing "Findgflags.cmake" in CMAKE_MODULE_PATH this project has
+  asked CMake to find a package configuration file provided by "gflags", but
+  CMake did not find one.
+
+  Could not find a package configuration file provided by "gflags" (requested
+  version 2.2.2) with any of the following names:
+
+    gflagsConfig.cmake
+    gflags-config.cmake
+
+  Add the installation prefix of "gflags" to CMAKE_PREFIX_PATH or set
+  "gflags_DIR" to a directory containing one of the above files.  If "gflags"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+
+
+-- Could NOT find Unwind (missing: Unwind_LIBRARY) 
+-- For macOS 10.x, you need to set ASAN_OPTIONS=detect_leaks=1 to detect memory leak.
+-- Source file lists: /Users/jly/Code/minisql-master/src/buffer/buffer_pool_manager.cpp;/Users/jly/Code/minisql-master/src/buffer/clock_replacer.cpp;/Users/jly/Code/minisql-master/src/buffer/lru_replacer.cpp;/Users/jly/Code/minisql-master/src/catalog/catalog.cpp;/Users/jly/Code/minisql-master/src/catalog/indexes.cpp;/Users/jly/Code/minisql-master/src/catalog/table.cpp;/Users/jly/Code/minisql-master/src/common/instance.cpp;/Users/jly/Code/minisql-master/src/executor/delete_executor.cpp;/Users/jly/Code/minisql-master/src/executor/execute_engine.cpp;/Users/jly/Code/minisql-master/src/executor/index_scan_executor.cpp;/Users/jly/Code/minisql-master/src/executor/insert_executor.cpp;/Users/jly/Code/minisql-master/src/executor/seq_scan_executor.cpp;/Users/jly/Code/minisql-master/src/executor/update_executor.cpp;/Users/jly/Code/minisql-master/src/executor/values_executor.cpp;/Users/jly/Code/minisql-master/src/index/b_plus_tree.cpp;/Users/jly/Code/minisql-master/src/index/b_plus_tree_index.cpp;/Users/jly/Code/minisql-master/src/index/index_iterator.cpp;/Users/jly/Code/minisql-master/src/page/b_plus_tree_internal_page.cpp;/Users/jly/Code/minisql-master/src/page/b_plus_tree_leaf_page.cpp;/Users/jly/Code/minisql-master/src/page/b_plus_tree_page.cpp;/Users/jly/Code/minisql-master/src/page/bitmap_page.cpp;/Users/jly/Code/minisql-master/src/page/header_page.cpp;/Users/jly/Code/minisql-master/src/page/index_roots_page.cpp;/Users/jly/Code/minisql-master/src/page/table_page.cpp;/Users/jly/Code/minisql-master/src/parser/minisql_lex.c;/Users/jly/Code/minisql-master/src/parser/minisql_yacc.c;/Users/jly/Code/minisql-master/src/parser/parser.c;/Users/jly/Code/minisql-master/src/parser/syntax_tree.c;/Users/jly/Code/minisql-master/src/parser/syntax_tree_printer.cpp;/Users/jly/Code/minisql-master/src/planner/planner.cpp;/Users/jly/Code/minisql-master/src/record/column.cpp;/Users/jly/Code/minisql-master/src/record/row.cpp;/Users/jly/Code/minisql-master/src/record/schema.cpp;/Users/jly/Code/minisql-master/src/record/types.cpp;/Users/jly/Code/minisql-master/src/storage/disk_manager.cpp;/Users/jly/Code/minisql-master/src/storage/table_heap.cpp;/Users/jly/Code/minisql-master/src/storage/table_iterator.cpp
+-- Create test suit: buffer_pool_manager_test
+-- Create test suit: lru_replacer_test
+-- Create test suit: catalog_test
+-- Create test suit: executor_test
+-- Create test suit: b_plus_tree_index_test
+-- Create test suit: b_plus_tree_test
+-- Create test suit: index_iterator_test
+-- Create test suit: index_roots_page_test
+-- Create test suit: tuple_test
+-- Create test suit: disk_manager_test
+-- Create test suit: table_heap_test
+-- CMAKE_BUILD_TYPE: Debug
+-- CMAKE_CXX_FLAGS:   -std=gnu++11 -fPIC -Wall -Wextra -Wattributes -Wunused-parameter
+-- CMAKE_CXX_FLAGS_DEBUG: -g -O0 -ggdb -fno-omit-frame-pointer -fno-optimize-sibling-calls
+-- CMAKE_CXX_FLAGS_RELEASE: -O3 -DNDEBUG
+-- CMAKE_BINARY_DIR: /Users/jly/Code/minisql-master/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/jly/Code/minisql-master/cmake-build-debug

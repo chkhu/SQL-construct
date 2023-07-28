@@ -1,0 +1,546 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.25.2/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/Platform/Darwin-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.25.2/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.25.2/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/Platform/Darwin.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/Compiler/AppleClang-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/Compiler/Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/Platform/Apple-AppleClang-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/Platform/Apple-Clang-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/Platform/Apple-Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/Compiler/AppleClang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/Compiler/Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/Platform/Apple-AppleClang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/Platform/Apple-Clang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/Platform/Apple-Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"path" : "thirdparty/googletest/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CMakeDependentOption.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"path" : "thirdparty/googletest/cmake/internal_utils.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/FindPython.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/FindPython/Support.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CMakePackageConfigHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/WriteBasicConfigVersionFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in"
+		},
+		{
+			"path" : "thirdparty/googletest/cmake/Config.cmake.in"
+		},
+		{
+			"path" : "thirdparty/googletest/cmake/gtest.pc.in"
+		},
+		{
+			"path" : "thirdparty/googletest/cmake/gtest_main.pc.in"
+		},
+		{
+			"path" : "thirdparty/glog/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CheckCXXCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/Internal/CheckCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/Internal/CheckFlagCommonConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CheckCXXSourceRuns.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/Internal/CheckSourceRuns.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CheckCXXSymbolExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CheckSymbolExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CheckFunctionExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CheckIncludeFileCXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CheckStructHasMember.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CheckTypeSize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CheckIncludeFileCXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CMakeDependentOption.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CMakePackageConfigHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/WriteBasicConfigVersionFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CMakePushCheckState.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CPack.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CPackComponent.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Templates/CPackConfig.cmake.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Templates/CPackConfig.cmake.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CTest.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CTestUseLaunchers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CTestTargets.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/DartConfiguration.tcl.in"
+		},
+		{
+			"path" : "thirdparty/glog/cmake/DetermineGflagsNamespace.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/GenerateExportHeader.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CheckCCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/Internal/CheckCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CheckCXXCompilerFlag.cmake"
+		},
+		{
+			"path" : "thirdparty/glog/cmake/GetCacheVariables.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "thirdparty/glog/cmake/FindUnwind.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "thirdparty/glog/src/config.h.cmake.in"
+		},
+		{
+			"path" : "thirdparty/glog/src/glog/logging.h.in"
+		},
+		{
+			"path" : "thirdparty/glog/src/glog/raw_logging.h.in"
+		},
+		{
+			"path" : "thirdparty/glog/src/glog/stl_logging.h.in"
+		},
+		{
+			"path" : "thirdparty/glog/src/glog/vlog_is_on.h.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/exportheader.cmake.in"
+		},
+		{
+			"path" : "thirdparty/glog/libglog.pc.in"
+		},
+		{
+			"path" : "thirdparty/glog/glog-config.cmake.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/jly/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/BasicConfigVersion-SameMajorVersion.cmake.in"
+		},
+		{
+			"path" : "thirdparty/glog/glog-modules.cmake.in"
+		},
+		{
+			"path" : "src/CMakeLists.txt"
+		},
+		{
+			"path" : "test/CMakeLists.txt"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/Users/jly/Code/minisql-master/cmake-build-debug",
+		"source" : "/Users/jly/Code/minisql-master"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}
